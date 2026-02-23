@@ -3,7 +3,11 @@
 This is the official repository for the paper:
 > **StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**
 >
-> [Zeyu Ren](https://github.com/Zephyr0609), Xiang Li, [Yiran Wang](https://github.com/u7079256), [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), and [Hao Tang](https://ha0tang.github.io/)
+> [Zeyu Ren](https://github.com/Zephyr0609)<sup>1*</sup>, Xiang Li<sup>2*</sup>, [Yiran Wang](https://github.com/u7079256)<sup>3*</sup>, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)<sup>2*†</sup>, and [Hao Tang](https://ha0tang.github.io/)<sup>2‡</sup>
+>
+> <sup>1</sup>The University of Melbourne, <sup>2</sup>Peking University, <sup>3</sup>Australian Centre for Robotics
+>
+> <sub><sup>*</sup>Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author: bjdxtanghao@gmail.com.</sub>
 >
 > ### [Paper](https://arxiv.org/abs/2602.16915) | [Website](https://aigeeksgroup.github.io/StereoAdapter-2/)
 
