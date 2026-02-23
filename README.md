@@ -1,4 +1,4 @@
-# <img src="./assets/stereoadapter_logo.png" alt="logo" width="50"/> StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
+# StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
 
 This is the official repository for the paper:
 > **StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**
@@ -6,6 +6,16 @@ This is the official repository for the paper:
 > [Zeyu Ren](https://github.com/Zephyr0609), Xiang Li, [Yiran Wang](https://github.com/u7079256), [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), and [Hao Tang](https://ha0tang.github.io/)
 >
 > ### [Paper](https://arxiv.org/abs/2602.16915) | [Website](https://aigeeksgroup.github.io/StereoAdapter-2/)
+
+<p align="center">
+  <img src="./assets/overview.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="./assets/ss2d_vs_gru.png" width="600"/>
+</p>
+
+Conceptual comparison explains how GRU's complex gating contrasts with Selective SSM's linear, input-dependent recurrence, inspiring ConvSS2D refinement.
 
 ## ✏️ Citation
 
