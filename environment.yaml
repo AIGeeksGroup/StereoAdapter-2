@@ -1,13 +1,11 @@
-name: raftstereo
+name: stereoadapter2
 channels:
-  - pytorch
-  - bioconda
   - defaults
 dependencies:
-  - python=3.7.6
-  - pytorch=1.7.0
-  - torchvision=0.8.1
-  - cudatoolkit=10.2.89
+  - python
+  - pytorch
+  - torchvision
+  - pytorch-cuda
   - matplotlib
   - tensorboard
   - scipy
@@ -16,4 +14,12 @@ dependencies:
   - opt_einsum
   - imageio
   - scikit-image
-  - p7zip
+  - ninja
+  - pip:
+    - einops
+    - timm
+    - mamba-ssm
+    - triton
+    - packaging
+    - safetensors
+    - huggingface-hub
