@@ -11,6 +11,8 @@ This is the official repository for the paper:
 >
 > ### [Paper](https://arxiv.org/abs/2602.16915) | [Website](https://aigeeksgroup.github.io/StereoAdapter-2/) | [Dataset](https://huggingface.co/datasets/AIGeeksGroup/UW-StereoDepth-80K) | [Model](https://huggingface.co/AIGeeksGroup/StereoAdapter-2)
 
+## Introduction
+
 <p align="center">
   <img src="./assets/overview.png" width="800"/>
 </p>
