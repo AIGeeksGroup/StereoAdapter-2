@@ -7,7 +7,7 @@ This is the official repository for the paper:
 >
 > <sup>1</sup>The University of Melbourne, <sup>2</sup>Peking University, <sup>3</sup>Australian Centre for Robotics
 >
-> <sub><sup>*</sup>Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author: bjdxtanghao@gmail.com.</sub>
+> <sup>*</sup>Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author: bjdxtanghao@gmail.com.
 >
 > ### [Paper](https://arxiv.org/abs/2602.16915) | [Website](https://aigeeksgroup.github.io/StereoAdapter-2/) | [Dataset](https://huggingface.co/datasets/AIGeeksGroup/UW-StereoDepth-80K) | [Model](https://huggingface.co/AIGeeksGroup/StereoAdapter-2)
 
